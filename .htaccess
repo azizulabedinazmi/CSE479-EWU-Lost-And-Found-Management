@@ -1,0 +1,3 @@
+# Custom error documents for the app folder
+ErrorDocument 403 /public/403.php
+ErrorDocument 404 /public/404.php
