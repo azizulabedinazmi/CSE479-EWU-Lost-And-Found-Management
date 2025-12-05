@@ -142,7 +142,11 @@ This project is developed by:
 We are a team of passionate developers who love creating clean, open‑source tools.
 
 ## 📜 License
-This project is open-source. Feel free to use and adapt for educational or internal purposes.
+[![License: Open Source](https://img.shields.io/badge/License-Open%20Source-blue?style=for-the-badge)](/LICENCE)
+
+<p align="center" style="margin-top:0.5rem;color:var(--muted,#6b7280);font-size:0.95rem;">
+  This project is open-source. See the license for full terms.
+</p>
 
 ## 🙌 Credits
 - UI inspiration from modern dashboard patterns and campus workflows
