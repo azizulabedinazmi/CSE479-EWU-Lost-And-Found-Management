@@ -131,12 +131,8 @@ This project is developed by:
     </td>
     <td style="padding: 1rem;">
       <img src="https://github.com/napaSyrup-r.png" width="100" style="border-radius: 50%;">
-      <br><br>
-<<<<<<< HEAD
-      <a href="https://github.com/napaSyrup-r">Ishrat Jahan</a>
-=======
-      <a href="https://github.com/napaSyrup-r.png">Fayroz Tasnim Rowza</a>
->>>>>>> 2eedba57550a70b05eaad0e55db97d3db62178aa
+      <br>
+      <a href="https://github.com/napaSyrup-r">Fayroz Tasnim Rowza</a>
       <br>
       <small>Developer</small>
     </td>
