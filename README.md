@@ -132,7 +132,7 @@ This project is developed by:
     <td style="padding: 1rem;">
       <img src="https://github.com/napaSyrup-r.png" width="100" style="border-radius: 50%;">
       <br><br>
-      <a href="https://github.com/napaSyrup-r.png">Ishrat Jahan</a>
+      <a href="https://github.com/napaSyrup-r">Ishrat Jahan</a>
       <br>
       <small>Developer</small>
     </td>
