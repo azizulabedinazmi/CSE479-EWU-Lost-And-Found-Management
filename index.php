@@ -51,7 +51,7 @@
         <div class="orbs"><div class="orb o1"></div><div class="orb o2"></div><div class="orb o3"></div></div>
         <div>
           <h1 class="hero-title">Find it. Return it. Smile.</h1>
-          <p class="hero-sub">A simple, beginner-friendly Lost & Found system to publish unclaimed items, approve public submissions, and manage messages—styled with cool CSS3 animations.</p>
+          <p class="hero-sub">A simple, beginner-friendly Lost & Found system to publish unclaimed items, approve public submissions, and manage messages styled with cool CSS3 animations.</p>
           <div class="cta">
             <a class="btn primary" href="/public/">Start Browsing</a>
             <a class="btn" href="/public/submit.php">Post Found Item</a>
