@@ -8,6 +8,7 @@ Minimal, friendly, and responsive Lost & Found for campus or small orgs. Built w
 
 </div>
 
+
 ---
 
 ## ✨ Highlights
