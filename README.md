@@ -131,9 +131,9 @@ This project is developed by:
       <small>Developer</small>
     </td>
     <td style="padding: 1rem;">
-      <img src="https://github.com/napaSyrup-r.png" width="100" style="border-radius: 50%;">
+      <img src="https://github.com/FayroSyrup.png" width="100" style="border-radius: 50%;">
       <br>
-      <a href="https://github.com/napaSyrup-r">Fayroz Tasnim Rowza</a>
+      <a href="https://github.com/FayroSyrup">Fayroz Tasnim Rowza</a>
       <br>
       <small>Developer</small>
     </td>
